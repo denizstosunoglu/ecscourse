@@ -10,7 +10,7 @@ HAFTA 2 GÜN 2 NumPy [COLLAB](https://colab.research.google.com/drive/1ItIVhgZ_H
 <br>
 HAFTA 3 GÜN 1 [COLLAB](https://colab.research.google.com/drive/1dyYDFepMUnNnCjfSs5ufQV_8fOGklrT6#scrollTo=_avR_Sy5c-Hv) <br>
 HAFTA 3 GÜN 2 HW [COLLAB](https://colab.research.google.com/drive/1S50VvrLDgdccp39aqclRfcF-UE5gPzS9) <br>
-HAFTA 3 GÜN 2 HW [COLLAB](https://colab.research.google.com/drive/1furkG0ZxO-tUxmMrVz0Vi4FGkrz4A1Kx#scrollTo=KdR2wGglO6cu) <br>
+HAFTA 3 GÜN 2 NumPy [COLLAB](https://colab.research.google.com/drive/1furkG0ZxO-tUxmMrVz0Vi4FGkrz4A1Kx#scrollTo=KdR2wGglO6cu) <br>
 HAFTA 5 GÜN 1 [KAGGLE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit)
 <br>
 HAFTA 5 GÜN 2 [COLLAB](https://colab.research.google.com/drive/1NkwzQZ0kO4yKZrb0o6HcAxZTlrN_F6bT#scrollTo=dmE-Tp1E64m5)
