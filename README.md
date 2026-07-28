@@ -14,4 +14,4 @@ HAFTA 3 GÜN 2 NumPy [COLLAB](https://colab.research.google.com/drive/1furkG0ZxO
 HAFTA 3 HW [AI STUDIO](https://colab.research.google.com/drive/123XSixJfFfSebg74yNrso6ADf5KtB0Wl) <br>
 HAFTA 5 GÜN 1 [KAGGLE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit)
 <br>
-HAFTA 5 GÜN 2 [COLLAB](https://colab.research.google.com/drive/1NkwzQZ0kO4yKZrb0o6HcAxZTlrN_F6bT#scrollTo=dmE-Tp1E64m5)
+HAFTA 5 GÜN 2 [COLLAB](https://colab.research.google.com/drive/1non_qLGtv1w9AAItG1zvzbE8U-01WAlE#scrollTo=k5kfB1MwYPnf)
