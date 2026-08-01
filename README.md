@@ -18,4 +18,4 @@ HAFTA 5 GÜN 1 [KAGGLE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit
 <br>
 HAFTA 5 GÜN 2 [COLAB](https://colab.research.google.com/drive/1non_qLGtv1w9AAItG1zvzbE8U-01WAlE#scrollTo=k5kfB1MwYPnf) <br>
 HAFTA 5 GÜN 2 [AI STUDIO](https://ai.studio/apps/c37a74a7-6211-46ff-8c1c-6c54c6bc872c) <br>
-HAFTA 6 DERS 1 [TITANIC SCORE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit) <br>
+HAFTA 6 GÜN 1 [TITANIC SCORE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit) <br>
