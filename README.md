@@ -21,3 +21,4 @@ HAFTA 5 GÜN 2 [AI STUDIO](https://ai.studio/apps/c37a74a7-6211-46ff-8c1c-6c54c6
 HAFTA 6 GÜN 1 [TITANIC SCORE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit) <br>
 HAFTA 6 GÜN 2 [İKİNCİ EL ARAÇ FİYAT TAHMİN](https://colab.research.google.com/drive/11-XB2xiujadcg6QEo6iYYVDzBxzuDIlz) <br>
 HAFTA 7 GÜN 1 [İKİNCİ EL ARAÇ FİYAT TAHMİN MODEL DOSYASI](https://github.com/denizstosunoglu/ecscourse/blob/main/data/car_pipe.pkl) <br>
+HAFTA 7 ÖDEV [2. El Araç Fiyat Tahmin Sitesi Deployment](https://huggingface.co/spaces/denizttosun/AracFiyatTahmin) <br>
