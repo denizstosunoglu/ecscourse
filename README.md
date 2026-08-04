@@ -9,7 +9,7 @@ HAFTA 2 GÜN 2 [COLAB](https://colab.research.google.com/drive/1xKy566-2yckWPmLK
 HAFTA 2 GÜN 2 NumPy [COLAB](https://colab.research.google.com/drive/1ItIVhgZ_Hw8gLqfTyp6kmkh1v2K36eiS#scrollTo=j9I-BhcSRy8n)
 <br>
 HAFTA 3 GÜN 1 [COLAB](https://colab.research.google.com/drive/1dyYDFepMUnNnCjfSs5ufQV_8fOGklrT6#scrollTo=_avR_Sy5c-Hv) <br>
-HAFTA 3 GÜN 2 HW [COLLAB](https://colab.research.google.com/drive/1S50VvrLDgdccp39aqclRfcF-UE5gPzS9) <br>
+HAFTA 3 GÜN 2 HW [COLAB](https://colab.research.google.com/drive/1S50VvrLDgdccp39aqclRfcF-UE5gPzS9) <br>
 HAFTA 3 GÜN 2 NumPy [COLAB](https://colab.research.google.com/drive/1furkG0ZxO-tUxmMrVz0Vi4FGkrz4A1Kx#scrollTo=KdR2wGglO6cu) <br>
 HAFTA 3 HW [AI STUDIO](https://colab.research.google.com/drive/123XSixJfFfSebg74yNrso6ADf5KtB0Wl) <br>
 HAFTA 4 GÜN 1 [KAGGLE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-d1/edit) <br>
@@ -22,3 +22,4 @@ HAFTA 6 GÜN 1 [TITANIC SCORE](https://www.kaggle.com/code/deniztosunolu/ecs-w5-
 HAFTA 6 GÜN 2 [İKİNCİ EL ARAÇ FİYAT TAHMİN](https://colab.research.google.com/drive/11-XB2xiujadcg6QEo6iYYVDzBxzuDIlz) <br>
 HAFTA 7 GÜN 1 [İKİNCİ EL ARAÇ FİYAT TAHMİN MODEL DOSYASI](https://github.com/denizstosunoglu/ecscourse/blob/main/data/car_pipe.pkl) <br>
 HAFTA 7 ÖDEV [2. El Araç Fiyat Tahmin Sitesi Deployment](https://huggingface.co/spaces/denizttosun/AracFiyatTahmin) <br>
+HAFTA 7 GÜN 2 [Google AGY Form](https://colab.research.google.com/drive/1KKsDXkbQf9QJvXkAh3ZKd5GYJykD2LRx) <br>
